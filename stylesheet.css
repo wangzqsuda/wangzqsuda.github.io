@@ -24,7 +24,7 @@ a:hover { border-bottom: 1px solid #7CCAB1; color: #7CCAB1; }
 **  Header
 **------------------------------------------------------------*/		
 #header {
-	background: #7CCAB1 url(img/header-1.png);
+	background: #7CCAB1 url(img/bg_header.jpg) repeat-x;
 	border-top: 5px solid #006F4A;
 	padding: 43px 0;
 	text-align:center;
@@ -139,16 +139,4 @@ clear:both;
 	color:#096;
 	font-weight: bold;
 	text-align: right;
-}
-
-.img-photo{
-width:600px;
-margin-left: 150px; 
-}
-
-.p-photo{
-    width:800px;
-	margin-left: 80px; 
-	margin-bottom:20px;
-	border-bottom: 1px dotted  #096;
 }
